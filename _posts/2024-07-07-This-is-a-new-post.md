@@ -8,7 +8,6 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 ![](/assets/Pasted_image20240708141509.png)
 
-![[Pasted_image20240708141509.png]]
 
 Jekyll requires blog post files to be named according to the following format:
 
